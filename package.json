@@ -1,0 +1,12 @@
+{
+  "name": "js_autotest_boilerplate",
+  "version": "0.0.1",
+  "description": "boilerplate for js with tests and git workflows",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "node tests/index.test.js"
+  },
+  "author": "Andrew Dodonov",
+  "license": "ISC"
+}
